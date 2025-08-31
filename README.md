@@ -53,11 +53,13 @@ docker-compose up --build
 Frontend: http://localhost:5173
 Backend API: http://localhost:8000
 
-###Usage
+##Usage
 
 Register as a new user or login as an admin
 Navigate between Home and Profile pages
 Admin can manage user data via search and CRUD operations
+
+---
 
 # Project Folder Structure
 
@@ -70,6 +72,8 @@ project-root/
 ├── docker-compose.yaml
 ├── README.md
 └── .gitignore
+
+---
 
 Notes
 
