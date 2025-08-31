@@ -60,7 +60,6 @@ Navigate between Home and Profile pages
 Admin can manage user data via search and CRUD operations
 
 ## Project Structure
-
 project-root/
 ├── backend/
 │ └── sample_jwt/ # Django backend
@@ -69,7 +68,6 @@ project-root/
 ├── docker-compose.yaml
 ├── README.md
 └── .gitignore
-
 
 Notes
 
