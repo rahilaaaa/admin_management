@@ -45,7 +45,7 @@ git clone https://github.com/rahilaaaa/admin_management
 ```bash
 docker-compose up --build
 ```
-3. Apply backend migration
+##3. Apply backend migration
  ```bash
    docker-compose exec backend python manage.py migrate
 ```
@@ -58,20 +58,6 @@ Backend API: http://localhost:8000
 Register as a new user or login as an admin
 Navigate between Home and Profile pages
 Admin can manage user data via search and CRUD operations
-
----
-
-# Project Folder Structure
-
-
-project-root/
-├── backend/
-│ └── sample_jwt/ # Django backend
-├── frontend/
-│ └── auth_demo/ # React frontend
-├── docker-compose.yaml
-├── README.md
-└── .gitignore
 
 ---
 
