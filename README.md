@@ -45,11 +45,11 @@ git clone https://github.com/rahilaaaa/admin_management
 ```bash
 docker-compose up --build
 ```
-##3. Apply backend migration
+### 3. Apply backend migration
  ```bash
    docker-compose exec backend python manage.py migrate
 ```
-4. **Access the app**
+### 4. Access the app
 Frontend: http://localhost:5173
 Backend API: http://localhost:8000
 
