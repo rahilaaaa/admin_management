@@ -35,7 +35,7 @@ git clone https://github.com/rahilaaaa/admin_management
 
 ```
 
-2. Setup Instructions
+2. **Setup Instructions**
 
 ### 1. Set up environment variables
 - **Backend:** `backend/sample_jwt/.env`
@@ -49,17 +49,19 @@ docker-compose up --build
  ```bash
    docker-compose exec backend python manage.py migrate
 ```
-4. Access the app
+4. **Access the app**
 Frontend: http://localhost:5173
 Backend API: http://localhost:8000
 
-Usage
+###Usage
 
 Register as a new user or login as an admin
 Navigate between Home and Profile pages
 Admin can manage user data via search and CRUD operations
 
-## Project Structure
+# Project Folder Structure
+
+
 project-root/
 ├── backend/
 │ └── sample_jwt/ # Django backend
