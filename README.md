@@ -59,14 +59,16 @@ Register as a new user or login as an admin
 Navigate between Home and Profile pages
 Admin can manage user data via search and CRUD operations
 
-Project Structure
+## Project Structure
+
 project-root/
-│
-├─ backend/sample_jwt/       # Django backend
-├─ frontend/auth_demo/       # React frontend
-├─ docker-compose.yaml
-├─ README.md
-└─ .gitignore
+├── backend/
+│ └── sample_jwt/ # Django backend
+├── frontend/
+│ └── auth_demo/ # React frontend
+├── docker-compose.yaml
+├── README.md
+└── .gitignore
 
 
 Notes
