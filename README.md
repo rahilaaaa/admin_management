@@ -35,7 +35,7 @@ git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-2.## Setup Instructions
+2. Setup Instructions
 
 ### 1. Set up environment variables
 - **Backend:** `backend/sample_jwt/.env`
