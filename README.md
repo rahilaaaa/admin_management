@@ -31,8 +31,8 @@ A small web application built with **Django** and **React**, featuring **JWT aut
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/rahilaaaa/admin_management
+
 ```
 
 2. Setup Instructions
@@ -67,6 +67,7 @@ project-root/
 ├─ docker-compose.yaml
 ├─ README.md
 └─ .gitignore
+
 
 Notes
 
